@@ -11,7 +11,7 @@
         <h1>Tabela osób</h1>
         <table style="width:50%">
             <tr>
-                <th>Imię</th>
+                <th>Imięe</th>
                 <th>Nazwisko</th>
                 <th>Email</th>
             </tr>
